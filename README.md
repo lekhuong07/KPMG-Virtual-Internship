@@ -3,8 +3,8 @@ This is repos that keeps track of my performance on KMPG Virutal internship: htt
 
 There will be 3 steps:
 
-Data Quality Assessment.
+Data Quality Assessment: KMPG_VI.py
 
-Data Insights.
+Data Insights: KMPG_DI.py
 
-Data Insights and Presentation.
+Data Insights and Presentation: KMPG_final.py
